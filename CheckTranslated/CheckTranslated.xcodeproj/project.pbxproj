@@ -243,8 +243,10 @@
 		A429C9392299AB110079D079 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 76NT4JB728;
+				PRODUCT_BUNDLE_IDENTIFIER = me.matsumoto.koichi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -252,8 +254,10 @@
 		A429C93A2299AB110079D079 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 76NT4JB728;
+				PRODUCT_BUNDLE_IDENTIFIER = me.matsumoto.koichi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

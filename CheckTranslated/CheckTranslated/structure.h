@@ -22,8 +22,8 @@ typedef struct {
 typedef struct {
     char * line_num;    // line number
     char * id;          //
-    char * index;       //
-    char * key;         //
+    char * key;       //
+    char * index;         //
     char * value;
     char * translation;
     
